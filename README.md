@@ -1,1 +1,1 @@
-# CaliforniaHomePricePrediction
+# California HomePrice Prediction
